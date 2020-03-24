@@ -1,0 +1,159 @@
+@font-face{
+
+    font-family: f1;
+    src: url('abel.ttf');
+}
+
+@font-face{
+
+    font-family: f2;
+    src: url('abg.ttf');
+
+
+}
+
+.navbar{
+
+    background-color: whitesmoke;
+    padding: 40px;
+    list-style: none;
+  
+    
+}
+
+.navbar a{
+
+   
+    margin: auto;
+    font-family: f2;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    font-weight: bolder;
+
+}
+
+.navbar a:hover{
+
+    color: cadetblue;
+
+}
+
+h2{
+
+    padding-top: 40px;
+    font-family: f2;
+    color: teal;
+
+}
+
+label{
+
+    font-family: f1;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+div{
+
+    margin: auto;
+
+}
+
+
+div.signup_con{
+
+    background-image: url('bg1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+
+  
+}
+
+button{
+
+    background-color:  #146473;
+    color: wheat;
+    float: center;
+    
+    
+
+}
+
+button:hover{
+
+    background-color: wheat;
+    color: #146473;
+}
+
+button.regbtn{
+
+    border-radius: 10px;
+    
+
+}
+
+button.cancelbtn{
+
+    border-radius: 10px;
+
+}
+
+button.loginbtn{
+
+    border-radius: 10px;
+
+}
+
+input::placeholder{
+
+    font-family: f1;
+    
+    
+}
+
+div.login_con{
+
+    padding: 300px;
+    background-image: url('bg2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+   
+    
+
+}
+
+div.col-md-3{
+
+    border: 3px double teal;
+    padding-left: 20px;
+
+
+
+}
+
+div.form-group-two{
+
+    padding-left: 40px;
+    padding-right: 40px;
+
+    
+}
+
+h1{
+
+    font-family: f2;
+    font-size: 10px;
+    color: teal;
+    padding-top: 20px;
+
+
+}
+
+
+
